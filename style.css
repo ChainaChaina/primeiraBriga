@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.center{
+    text-align: center;
+    color: white;
+}
+.low{
+    position: absolute;
+    top: 100px;
+}
+.low2{
+    position: absolute;
+    top: 150px;
+}
+.low3{
+    position: absolute;
+    top: 250px;
+}
