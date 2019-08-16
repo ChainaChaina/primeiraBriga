@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    
 }
 .center{
     text-align: center;
@@ -15,5 +16,5 @@ body{
 }
 .low3{
     position: absolute;
-    top: 250px;
+    top: 450px;
 }
