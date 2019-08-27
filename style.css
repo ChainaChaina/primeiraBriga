@@ -1,5 +1,7 @@
-body{
+body{text-align: center;
     background-color: black;
+    overflow-x: hidden;
+    overflow-y: hidden;
     
 }
 .center{
@@ -7,14 +9,17 @@ body{
     color: white;
 }
 .low{
+    text-align: center;
     position: absolute;
     top: 100px;
 }
 .low2{
+    text-align: center;
     position: absolute;
     top: 150px;
 }
 .low3{
+    text-align: center;
     position: absolute;
-    top: 450px;
+    top: 25rem;
 }
