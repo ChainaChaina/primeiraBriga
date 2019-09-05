@@ -29,33 +29,63 @@ function mouseClicked() {
   console.log(valor);
 
   if (valor < 100) {
-    troca.innerHTML = "deu tudo certo até então1";
+    troca.innerHTML = "Conte como se conheceram";
+  }
+  if (valor < 95) {
+    troca.innerHTML = "Descreva a pessoa com um personagem fictício";
   }
   if (valor < 90) {
-    troca.innerHTML = "deu tudo certo até então2";
+    troca.innerHTML = "Fale o que mais gosta nelx (personalidade)";
+  }
+  if (valor < 85) {
+    troca.innerHTML = "Diga o que o namoro te fez melhorar";
   }
   if (valor < 80) {
-    troca.innerHTML = "deu tudo certo até então3";
+    troca.innerHTML = "Escolham (juntos) 10 adjetivos para o relacionamento";
+  }
+  if (valor < 75) {
+    troca.innerHTML = "façam cafune um no outro por 45s";
   }
   if (valor < 70) {
-    troca.innerHTML = "deu tudo certo até então4";
+    troca.innerHTML = "Descreva a primeira vez que se viram";
+  }
+  if (valor < 65) {
+    troca.innerHTML = "Beije a pessoa no lugar que escolher";
   }
   if (valor < 60) {
-    troca.innerHTML = "deu tudo certo até então5";
+    troca.innerHTML = "Diga qual a parte do corpo você acha mais bonito nelx";
+  }
+  if (valor < 55) {
+    troca.innerHTML = "Reencenem a cena de um filme de romance";
   }
   if (valor < 50) {
-    troca.innerHTML = "deu tudo certo até então6";
+    troca.innerHTML = "Se abracem em silencio por 30seg";
+  }
+  if (valor < 45) {
+    troca.innerHTML = "façam carinho na barriga um do outro por 30 seg";
   }
   if (valor < 40) {
-    troca.innerHTML = "deu tudo certo até então7";
+    troca.innerHTML = "Olhem no olho um do outro, o primeiro a rir/piscar, perde.";
+  }
+  if (valor < 35) {
+    troca.innerHTML = "Deem um beijinho de esquimo";
   }
   if (valor < 30) {
-    troca.innerHTML = "deu tudo certo até então8";
+    troca.innerHTML = "Diga (ou cante) a música que mais descreve seu amor";
+  }
+  if (valor < 25) {
+    troca.innerHTML = "Cantem a musica do casal (todo casal tem uma música)";
   }
   if (valor < 20) {
-    troca.innerHTML = "deu tudo certo até então9";
+    troca.innerHTML = "Diga exatamente como se apaixonaram";
+  }
+  if (valor < 15) {
+    troca.innerHTML = "Deem uma volta com o outro no colo.";
   }
   if (valor < 10) {
-    troca.innerHTML = "deu tudo certo até então10";
+    troca.innerHTML = "façam cócegas um no outro por 30seg.";
+  }
+  if (valor < 5) {
+    troca.innerHTML = "Fiquem de conchinha por 3min.";
   }
 }
